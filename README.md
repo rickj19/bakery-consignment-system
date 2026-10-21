@@ -4,9 +4,11 @@ Management system for **Ceará Bolos**, a bakery that sells through a team of st
 
 **Live:** [cearabolos.com.br](https://cearabolos.com.br)
 
-![Daily dashboard](screenshots/dashboard.png)
+| Daily dashboard | Vendor account settlement |
+|---|---|
+| ![Daily dashboard](screenshots/dashboard.png) | ![Finance](screenshots/finance.png) |
 
-*Vendor names and amounts in the screenshot were replaced with placeholders.*
+*Vendor names and amounts in the screenshots were replaced with placeholders.*
 
 ## Features
 
