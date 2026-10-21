@@ -4,7 +4,9 @@ Management system for **Ceará Bolos**, a bakery that sells through a team of st
 
 **Live:** [cearabolos.com.br](https://cearabolos.com.br)
 
-![Login](screenshots/login.png)
+![Daily dashboard](screenshots/dashboard.png)
+
+*Vendor names and amounts in the screenshot were replaced with placeholders.*
 
 ## Features
 
